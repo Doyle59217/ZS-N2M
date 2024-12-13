@@ -6,6 +6,12 @@ This repository will host the **code** and **resources** associated with our pap
 
 ---
 
+## 📄 Paper Title
+
+**Zero-Shot Noise2Mean: Gap Minimization for Efficient Denoising from a Single Noisy Image**
+
+---
+
 ## 🚀 Stay Tuned for Updates!
 
 We’ll be updating this repository with:
