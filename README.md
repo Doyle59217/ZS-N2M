@@ -1,4 +1,3 @@
-# ZS-N2M
 # 🎉 Accepted at AAAI 2025 🎉
 
 We are thrilled to announce that our work has been **accepted at AAAI 2025**! 🏆  
@@ -6,7 +5,7 @@ This repository will host the **code** and **resources** associated with our pap
 
 ---
 
-## 📄 Paper Title
+## 📄 ZS-N2M
 
 **Zero-Shot Noise2Mean: Gap Minimization for Efficient Denoising from a Single Noisy Image**
 
